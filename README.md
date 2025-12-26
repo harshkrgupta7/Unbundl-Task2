@@ -1,5 +1,13 @@
 # Unbundl Task 2 
 
+
+-- NOTE: create any database name and then paste the all the queries given below
+-- after that you can test my website
+
+-- IMPORTANT:
+--  also edit your database server host, username, password, database name in the backend.php file
+
+
 A fully functional Car Listing website built with **Core PHP**, **MySQL**, and **JavaScript**. It features a user-facing frontend and a comprehensive Admin Panel.
 
 ## 🚀 Features
