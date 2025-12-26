@@ -1,7 +1,7 @@
 # Unbundl Task 2 
 
 
--- NOTE: create any database name and then paste the all the queries given below
+-- NOTE: create any database name and then paste the all the queries given below in the database.sql file
 -- after that you can test my website
 
 -- IMPORTANT:
